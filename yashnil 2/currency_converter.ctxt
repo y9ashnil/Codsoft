@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=currency_converter
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=USD
+comment2.target=double\ usdToRupee(double)
+comment3.params=Rupee
+comment3.target=double\ RupeeToUsd(double)
+comment4.params=EURO
+comment4.target=double\ euroToRupee(double)
+comment5.params=Rupee
+comment5.target=double\ RupeeToEuro(double)
+numComments=6
